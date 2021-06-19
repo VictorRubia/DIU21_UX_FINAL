@@ -42,7 +42,7 @@ Esta persona es la primera herramienta que se plantea para rediseñar el caso pr
 
 > Revisión de usabilidad
 
-Usaremos un documento de tipo checklist para detectar fallos en las características de diseño mas reseñables del sitio web. El documento completo junto con explicaciones más detallaadas puede leerse [aquí](/doc/Usability-review-template.pdf)
+Usaremos un documento de tipo checklist para detectar fallos en las características de diseño mas reseñables del sitio web. El documento completo junto con explicaciones más detalladas puede leerse [aquí](/doc/Usability-review-template.pdf)
 
 **Puntuación obtenida:** 55 (REGULAR)
 
